@@ -1,7 +1,7 @@
 <?PHP
 echo "This should change";
 
-echo "get_template_directory_uri()";
+echo "get_template_directory()";
 
-echo "get_template_directory_uri() get_template_directory_uri()  get_template_directory()";
+echo "get_template_directory() get_template_directory()  get_template_directory()";
 ?>
