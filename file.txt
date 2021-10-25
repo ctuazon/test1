@@ -4,4 +4,6 @@ echo "This should change";
 echo "get_template_directory()";
 
 echo "get_template_directory() get_template_directory()  get_template_directory()";
+
+file_get_contents()
 ?>
